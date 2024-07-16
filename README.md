@@ -46,7 +46,7 @@ Una vez importado el proyecto, Maven descargará automáticamente todas las depe
 
     C:\Users\ufred\IdeaProjects\ApiBlaze\src\test\resources\blazeApi.feature
 
-![imagen](https://github.com/user-attachments/assets/cb16cec4-7147-4e1d-b159-d192ed121a65)
+![imagen](https://github.com/user-attachments/assets/8b4c0fdf-18fc-48fc-bc83-4799288096c7)
 
 ## Revisar los Reportes del Proyecto 
 
