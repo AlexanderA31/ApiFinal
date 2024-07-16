@@ -82,8 +82,15 @@ Una vez importado el proyecto, Maven descargará automáticamente todas las depe
 ```plaintext
 ├── src
 │   └── test
-│         └── resources
-│             └── BlazeApi.feature
+│       └── java
+│       │    └── runners
+│       │       └──  APIBlazeRunner.java
+│       │
+│       └── resources
+│       │    └── data
+│       │    │    └── users.json
+│       │    └── features
+│       │         └── APIBlaze.feature
 ├── pom.xml
 ├── conclusiones.txt
 └── README.md
