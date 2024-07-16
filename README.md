@@ -40,8 +40,6 @@ Una vez importado el proyecto, Maven descargará automáticamente todas las depe
 
 ## Resultados Obtenidos
 
-### Resultados del Test
-
 ### Ejecución del Proyecto 
 
     C:\Users\ufred\IdeaProjects\ApiBlaze\src\test\java\runners\APIBlazeRunner.java
