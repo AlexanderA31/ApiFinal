@@ -50,12 +50,13 @@ Una vez importado el proyecto, Maven descargará automáticamente todas las depe
 
 ## Revisar los Reportes del Proyecto 
 
-![imagen](https://github.com/user-attachments/assets/3f001123-5b22-48d7-9039-5ce2be5014c7)
-
-## Reportes 
 ### Ubicacion de los reportes: 
 
     C:/Users/ufred/IdeaProjects/ApiBlaze/target/karate-reports
+
+![imagen](https://github.com/user-attachments/assets/3f001123-5b22-48d7-9039-5ce2be5014c7)
+
+## Reportes 
 
 ![imagen](https://github.com/user-attachments/assets/c29a5ec9-8938-45d5-863a-f4e20d0cd911)
 
