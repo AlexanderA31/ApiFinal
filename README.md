@@ -48,6 +48,18 @@ Una vez importado el proyecto, Maven descargará automáticamente todas las depe
 
 ![imagen](https://github.com/user-attachments/assets/d44f6cc4-ae62-452f-876c-12630a997489)
 
+## Como realizar las pruebas
+### Las pruebas se realizan con el siguiente comando
+    mvn test
+
+![imagen](https://github.com/user-attachments/assets/47c0c1e4-25d4-4223-b0ec-b75f3f1b807a)
+
+![imagen](https://github.com/user-attachments/assets/513e2bfa-fd8e-4f41-982b-9222ab7bcca8)
+
+### y tambien probando con diferentes usuarios 
+
+![imagen](https://github.com/user-attachments/assets/0a865fb0-ad81-47b3-b180-cb7b9e95e456)
+
 ## Revisar los Reportes del Proyecto 
 
 ### Ubicacion de los reportes: 
