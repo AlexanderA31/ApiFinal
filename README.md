@@ -54,9 +54,11 @@ Una vez importado el proyecto, Maven descargará automáticamente todas las depe
 
 ## Reportes 
 
-![imagen](https://github.com/user-attachments/assets/d4db7a99-0cdd-447e-b02b-0b547977449e)
+![imagen](https://github.com/user-attachments/assets/c29a5ec9-8938-45d5-863a-f4e20d0cd911)
 
-![imagen](https://github.com/user-attachments/assets/349f1ed4-3543-40ac-81a1-8a8a8e817fdc)
+![imagen](https://github.com/user-attachments/assets/3a7fcbff-6224-47b2-8e14-cbb1675f4f9e)
+
+![imagen](https://github.com/user-attachments/assets/79492c62-426b-496c-9c19-3ca421d38b43)
 
 
 ## Estructura del Proyecto
